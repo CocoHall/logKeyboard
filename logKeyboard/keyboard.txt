@@ -1,0 +1,41 @@
+
+------- E:\workspace\logKeyboard\Debug\logKeyboard.exe -------
+
+
+------- asa ? - Sublime Text (UNREGISTERED) -------
+
+s
+a
+s
+a
+s
+a
+
+[Ctrl]
+c
+a
+c
+s
+d
+
+------- 另存为 -------
+
+a
+
+------- asa ? - Sublime Text (UNREGISTERED) -------
+
+
+------- E:\workspace\logKeyboard\Debug\logKeyboard.exe -------
+
+
+------- E:\workspace\logKeyboard\Debug\logKeyboard.exe -------
+
+------- E:\workspace\logKeyboard\Release\logKeyboard.exe -------
+
+------- E:\workspace\logKeyboard\Release\logKeyboard.exe -------
+
+------- E:\workspace\logKeyboard\Release\logKeyboard.exe -------
+
+------- logKeyboard (正在运行) - Microsoft Visual Studio  -------
+
+[Enter]
